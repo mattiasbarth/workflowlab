@@ -1,0 +1,9 @@
+Git and Git hub - Workflow - Lab:
+
+ * Tasks:
+    * Create a new local repo
+    * Add a text file localy
+    * Create the remote repo on Github
+    * Push the Local repo changes to Github
+    * Create a new file on GitHub
+    * Pull these changes from GitHuv to the local repo
